@@ -1,4 +1,12 @@
-User-agent: *
+User-Agent: *
 Disallow: 
-Disallow: /cgi-bin/
-Sitemap: http://swarit.me/sitemap.xml
+Disallow: /css
+Disallow: /img
+Disallow: /js
+Disallow: /maxcdn.bootstrapcdn.com
+Disallow: /code.jquery.com
+Disallow: /CNAME
+Disallow: /README.md
+Disallow: /www.intergram.xyz/js
+
+Sitemap: https://swarit.me/sitemap.xml
