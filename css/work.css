@@ -64,15 +64,15 @@ body {
 }
 
 .card-border:nth-child(1) .card{
-  background-image: url(yolo.png);
+  background-image: url(yolo.webp);
 }
 
 .card-border:nth-child(2) .card{
-  background-image: url(covid.jpg);
+  background-image: url(covid.webp);
 }
 
 .card-border:nth-child(3) .card{
-  background-image: url(port.png);
+  background-image: url(port.webp);
 }
 
 
